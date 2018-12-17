@@ -1,0 +1,10 @@
+Ögrenci notlarý:
+1 Gizem  100
+ 2 Bengi  100
+  0
+2 Bengi  100
+  0
+3 Kardelen  99
+  0
+4 Onur  96
+  0

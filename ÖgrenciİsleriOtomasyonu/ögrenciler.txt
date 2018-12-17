@@ -1,0 +1,5 @@
+1 Gizem Demir Bilgisayar Mühendisliği Mehmet H�lya zonguldak 1996 03124893434 gizem@gmail.com avcilar 05543178317false
+2 Bengi Sarig�l  Elektrik Elektronik Mühendisligi  Kemal Birg�l istanbul 1997 03126789898 bengi@gmail.com levent 05543217878
+2 Bengi Sarig�l  Makina Mühendisligi Kemal Birg�l istanbul 1997 03126789898 bengi@gmail.com levent 05543217878
+3 Kardelen Cihangir  Makina Mühendisligi Ercan �nci bodrum 1998 yok kardelen@hotmail.com avcilar 05541231212
+4 Onur �ner  Makina Mühendisligi Kadir Leyla istanbul 1996 yok onur@gmail.com beyoglu 05543127878

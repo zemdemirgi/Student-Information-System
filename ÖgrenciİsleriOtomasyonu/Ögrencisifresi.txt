@@ -1,0 +1,10 @@
+Ögrenci sifresi :
+1 Gizem  123
+ 2 Bengi  122
+  12
+2 Bengi  100
+  99
+3 Kardelen  34
+  0
+4 Onur  123
+  0
